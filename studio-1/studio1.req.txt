@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
+torch
+opencv-python
+labelme
+statsmodels
+scipy
+missingno
+
