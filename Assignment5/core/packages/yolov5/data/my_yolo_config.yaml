@@ -1,0 +1,8 @@
+path: /Users/cobeo/Codes/SchoolWork/COS40007/Assignment5/data/final  # dataset root dir
+train: images/train  # train images
+val: images/val  # val images
+test: images/test  # test images
+
+# Classes
+names:
+  0: Graffiti
